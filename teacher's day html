@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Teacher's Day</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Happy Teacher's Day, Mom!</h1>
+        <p>Thank you for being the best teacher and mother. Your guidance and love have shaped me into who I am today. I love you!</p>
+        <div class="animation">
+            <div class="heart"></div>
+        </div>
+    </div>
+</body>
+</html>
